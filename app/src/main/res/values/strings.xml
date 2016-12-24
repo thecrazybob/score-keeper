@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_button">1</string>
+    <string name="second_button">2</string>
+    <string name="third_button">3</string>
+    <string name="fourth_button">Four Runs</string>
+    <string name="fifth_button">Six Runs</string>
+    <string name="howzat_button">Out!</string>
+    <string name="bottom_button">Reset</string>
+    <string name="team_a_name">Team A</string>
+    <string name="team_b_name">Team B</string>
+    <string name="default_score">0/0</string>
+    <string name="below_score">Runs</string>
+</resources>
